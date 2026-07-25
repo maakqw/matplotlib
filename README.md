@@ -1,2 +1,2 @@
-# gaussianDistribution
-to see gaussian distribution and explore it
+# matplotlib
+проекты с данной библиотекой
